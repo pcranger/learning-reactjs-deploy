@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "http://gitname.github.io/learning-reactjs-deploy",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
